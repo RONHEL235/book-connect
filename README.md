@@ -1,2 +1,2 @@
-# sign-up-page
- Sign up page for an app
+# Book Connect 
+A Application for exploring books.
